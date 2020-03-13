@@ -1,4 +1,4 @@
-package htmldevider;
+package htmldivider;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -10,9 +10,9 @@ import java.io.RandomAccessFile;
 import java.nio.ByteBuffer;
 
 
-public class devider {
+public class divider {
 	
-	public devider() {
+	public divider() {
 		
 	}
 	
